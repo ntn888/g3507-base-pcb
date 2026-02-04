@@ -1,0 +1,29 @@
+
+
+## mspm0g3507 minimal dev board
+
+
+### Parts list
+
+Red LED 0805- C965812
+Blue LED 0805- C965817
+
+Resistor 1K 0805 x2- C95781
+Resistor 47K 0805- C126351
+Resistor 330 0805- C105877
+
+Resistor 100K 0.1% 0805- C122537
+
+Cap 10nF 0805- C1710
+Cap 10uF 0805- C15850
+Cap 0.1uF 0805- C49678
+Cap 0.47uF 0805- C106843
+
+---
+
+sw_push- C720477
+
+conn01x04 C42431821
+conn01x15 C2337
+
+uC- C22362630
